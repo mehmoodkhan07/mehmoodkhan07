@@ -11,7 +11,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mehmoodkhan07&style=for-the-badge&color=7fdbff&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 <a href="https://github.com/mehmoodkhan07"><img src="https://img.shields.io/github/followers/mehmoodkhan07?style=for-the-badge&color=a29bfe&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/></a>
 <a href="https://github.com/mehmoodkhan07"><img src="https://img.shields.io/github/stars/mehmoodkhan07?style=for-the-badge&color=ffd32a&labelColor=0D1117&label=STARS" alt="Stars"/></a>
 <img src="https://img.shields.io/badge/Role-Software%20Engineer-00D9FF?style=for-the-badge&labelColor=0D1117&logo=visualstudiocode&logoColor=white" alt="Software Engineer"/>
