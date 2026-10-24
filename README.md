@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mehmood%20Hassan&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full%20Stack%20JavaScript%20%26%20TypeScript%20Architect&descAlignY=58&descAlign=50&descSize=16" width="100%"/>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0284c7&height=220&section=header&text=Mehmood%20Hassan&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Custom%20AI%20Chatbots&descAlignY=62&descAlign=50&descSize=18" width="100%"/>
 
 <h3>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 💻 Terminal Overview
 
@@ -44,7 +44,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 👨‍💻 About Me
 
@@ -105,7 +105,7 @@ graph LR
     Webhook -->|Instant Alert| CRM[📱 Real-time Client Notification & Calendar]
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -267,7 +267,7 @@ Co-founder @ Olive Growth,<br/>serving clients worldwide.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 📊 GitHub Analytics
 
@@ -323,7 +323,7 @@ Co-founder @ Olive Growth,<br/>serving clients worldwide.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🎯 Engineering Principles
 
@@ -379,7 +379,7 @@ Co-founder @ Olive Growth,<br/>serving clients worldwide.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 📫 Let's Connect & Build Together
 
@@ -413,7 +413,7 @@ Co-founder @ Olive Growth,<br/>serving clients worldwide.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Need+a+scalable+app+or+tight+AI+chatbot%3F+Let's+build+it.&fontColor=7fdbff&fontSize=20&fontAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0284c7&height=140&section=footer&text=Need%20a%20scalable%20app%20or%20tight%20AI%20chatbot%3F%20Let's%20build%20it.&fontColor=38bdf8&fontSize=20&fontAlignY=55" width="100%"/>
 
 <br/>
 
