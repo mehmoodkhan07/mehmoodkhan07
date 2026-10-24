@@ -1,8 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mehmood%20Hassan&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Co-founder%20%40%20Olive%20Growth%20Agency&descAlignY=58&descAlign=50&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mehmood%20Hassan&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full%20Stack%20JavaScript%20%26%20TypeScript%20Architect&descAlignY=58&descAlign=50&descSize=16" width="100%"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=7FDBFF&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%8C%90;Custom+AI+Chatbots+%26+Automation+%F0%9F%A4%96;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js+%E2%9A%A1;Co-founder+%40+Olive+Growth+Agency+%F0%9F%8C%BF;Engineering+Scalable+Modern+Systems+%F0%9F%9A%80;Clean+Architecture+%7C+Real+Results+%E2%9C%A8" alt="Typing SVG"/></a>
+<h3>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
+  Hey there! I'm Mehmood Hassan
+</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=7FDBFF&center=true&vCenter=true&width=850&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+JavaScript+%26+TypeScript+Specialist+%F0%9F%8C%90;Next.js+%7C+React+%7C+Node.js+%7C+Express+%E2%9A%A1;Custom+Intelligent+AI+Chatbots+%F0%9F%A4%96;Smart+Business+Workflow+Automations+%E2%9A%99%EF%B8%8F;Co-founder+%40+Olive+Growth+Agency+%F0%9F%8C%BF;Engineering+Clean%2C+Scalable+Modern+Systems+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
 <br/><br/>
 
@@ -10,47 +15,49 @@
 <a href="https://github.com/mehmoodkhan07"><img src="https://img.shields.io/github/followers/mehmoodkhan07?style=for-the-badge&color=a29bfe&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/></a>
 <a href="https://github.com/mehmoodkhan07"><img src="https://img.shields.io/github/stars/mehmoodkhan07?style=for-the-badge&color=ffd32a&labelColor=0D1117&label=STARS" alt="Stars"/></a>
 <img src="https://img.shields.io/badge/Role-Software%20Engineer-00D9FF?style=for-the-badge&labelColor=0D1117&logo=visualstudiocode&logoColor=white" alt="Software Engineer"/>
+<img src="https://img.shields.io/badge/Focus-Next.js%20%7C%20Node.js%20%7C%20Chatbots-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Core Focus"/>
 <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-00C853?style=for-the-badge&labelColor=0D1117" alt="Open for Opportunities"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💻 Terminal Overview
 
 ```bash
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  mehmood@workstation:~$ whoami                                               ║
-║  > Mehmood Hassan — Software Engineer & Full Stack Developer                 ║
-║                                                                              ║
-║  mehmood@workstation:~$ cat identity.json                                    ║
-║  > {                                                                         ║
-║      "title": "Software Engineer",                                           ║
-║      "specialization": "Full Stack Web Apps & Custom AI Chatbots",          ║
-║      "leadership": "Co-founder @ Olive Growth Agency 🌿",                    ║
-║      "core_stack": ["Next.js", "React", "Node.js", "TypeScript"],            ║
-║      "capabilities": ["AI Chatbots", "Smart Automations", "System Design"],  ║
-║      "deliverables": "7–14 Day Turnaround · Scalable Code · Global Clients"   ║
-║    }                                                                         ║
-║                                                                              ║
-║  mehmood@workstation:~$ run chatbot --tight --production                     ║
-║  > [ONLINE] 24/7 Intelligent Lead-Gen & Automated Support Bot Running! 🤖    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  mehmood@workstation:~$ whoami                                                   ║
+║  > Mehmood Hassan — Software Engineer & Full Stack Web Architect                 ║
+║                                                                                  ║
+║  mehmood@workstation:~$ cat tech-dna.json                                        ║
+║  > {                                                                             ║
+║      "primary_role": "Software Engineer",                                        ║
+║      "core_ecosystem": "JavaScript / TypeScript (Next.js · React · Node.js)",    ║
+║      "backend_runtime": "Node.js · Express.js · RESTful APIs",                   ║
+║      "chatbot_mastery": "Custom Tight AI Chatbots (24/7 Lead-Gen & Support)",    ║
+║      "automation": "Webhooks · Event Pipelines · API Orchestration",             ║
+║      "co_founder": "Olive Growth Agency 🌿",                                     ║
+║      "ship_speed": "7–14 Day Turnaround · Zero Bloat · Production Ready"         ║
+║    }                                                                             ║
+║                                                                                  ║
+║  mehmood@workstation:~$ npm run deploy:chatbot --tight                           ║
+║  > [ACTIVE] Intelligent Conversational Chatbot & Automation Running! 🤖⚡        ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Software Engineer and Full Stack Developer focused on architecting high-performance web applications, scalable backends, and tight, intelligent conversational AI chatbots. Co-founder of **Olive Growth Agency**, building production-ready digital products that solve real business bottlenecks.
+Software Engineer and Full-Stack JavaScript/TypeScript Specialist. My primary stack is **Next.js, React, Node.js, and TypeScript**. I engineer high-performance web applications with modular architecture, resilient backend APIs, and **custom, tight AI Chatbots** that automate lead intake and customer communication 24/7.
 
-- 💻 **Software Engineering**: Writing clean, modular, and maintainable code with modern design patterns and type safety.
-- 🤖 **Custom AI Chatbots**: Building full tight, context-aware chatbots for 24/7 automated lead generation, user onboarding, and customer care.
-- ⚙️ **Smart Workflow Automations**: Integrating APIs, webhooks, and backend triggers to automate tedious business workflows.
-- 🌐 **Modern Full-Stack Applications**: Creating fast, responsive interfaces using Next.js, React, Node.js, TypeScript, PostgreSQL, and MongoDB.
-- 🌿 **Agency Co-founder**: Delivering end-to-end digital engineering and growth solutions for global clients.
+- 💻 **Software Engineering**: Building clean, scalable web applications with Next.js App Router, React Server Components, and Node.js.
+- 🤖 **Custom AI Chatbots**: Building full tight, context-aware chatbots that autonomously qualify leads, book appointments, and answer questions.
+- ⚙️ **Smart Automations**: Connecting APIs, webhooks, and backend events to eliminate repetitive human friction and save hours weekly.
+- 🌐 **Modern Frontend & UI**: Pixel-perfect, high-converting interfaces using TailwindCSS, Framer Motion, and mobile-first principles.
+- 🌿 **Co-founder @ Olive Growth Agency**: Leading technical engineering and building digital growth infrastructure for global clients.
 - 📧 **Direct Reach**: [mehmood9395@gmail.com](mailto:mehmood9395@gmail.com)
 
 <br clear="right"/>
@@ -64,21 +71,21 @@ Software Engineer and Full Stack Developer focused on architecting high-performa
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>💻 Software Engineering & Web Apps</h3>
+<h3>💻 Software Engineering & Full-Stack Apps</h3>
 <ul>
-  <li><b>Architecture:</b> Next.js 14 App Router, React Server Components, TypeScript</li>
-  <li><b>Performance:</b> Optimized Core Web Vitals, sub-second TTFB, SEO-first architecture</li>
-  <li><b>State & Data:</b> Clean RESTful APIs, type-safe data validation, relational & NoSQL schemas</li>
-  <li><b>Quality:</b> Modular folder structures, zero spaghetti code, high maintainability</li>
+  <li><b>Core Stack:</b> Next.js 14, React, Node.js, Express, TypeScript</li>
+  <li><b>High Performance:</b> Sub-second load times, optimal Core Web Vitals, SEO architecture</li>
+  <li><b>Clean Architecture:</b> Type-safe APIs, modular folder structure, zero spaghetti code</li>
+  <li><b>Data Engineering:</b> PostgreSQL, MongoDB, Supabase, indexing & optimized queries</li>
 </ul>
 </td>
 <td width="50%" valign="top">
-<h3>🤖 Custom AI Chatbots & Automation</h3>
+<h3>🤖 Custom AI Chatbots & Smart Automations</h3>
 <ul>
-  <li><b>Full Tight Chatbots:</b> 24/7 intelligent conversational agents with context memory</li>
-  <li><b>Lead Generation:</b> Automated visitor qualification, instant intake, appointment booking</li>
-  <li><b>Workflow Automation:</b> Webhooks, CRM integrations, real-time alert pipelines</li>
-  <li><b>Multi-Platform:</b> Web widget, WhatsApp, Messenger, and custom portal integrations</li>
+  <li><b>Tight Conversational AI:</b> 24/7 intelligent bots trained on business knowledge</li>
+  <li><b>Automated Lead-Gen:</b> Interactive visitor qualification and instant appointment booking</li>
+  <li><b>Workflow Pipelines:</b> Instant webhook triggers, CRM sync, alert routing</li>
+  <li><b>Omnichannel:</b> Website chat widgets, WhatsApp, Messenger, and custom portals</li>
 </ul>
 </td>
 </tr>
@@ -88,22 +95,35 @@ Software Engineer and Full Stack Developer focused on architecting high-performa
 
 ---
 
+## 🔄 AI Chatbot & Automation Architecture
+
+```mermaid
+graph LR
+    User[👤 Visitor / Client] -->|Sends Message| Bot[🤖 Custom AI Chatbot]
+    Bot -->|Extracts Intent & Context| Engine[⚡ Next.js / Node.js Engine]
+    Engine -->|Qualifies & Saves Lead| DB[(🗄️ PostgreSQL / MongoDB)]
+    Engine -->|Automated Trigger| Webhook[⚙️ Smart Webhook Pipeline]
+    Webhook -->|Instant Alert| CRM[📱 Real-time Client Notification & Calendar]
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🛠️ Tech Stack & Tools
 
 <table>
 <tr>
-  <td width="22%"><b>🗣️ Languages</b></td>
+  <td width="22%"><b>🗣️ Core Languages</b></td>
   <td>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript_(ES6+)-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Node.js_(Runtime)-6DA55F?style=flat&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   </td>
 </tr>
 <tr>
-  <td><b>🎨 Frontend</b></td>
+  <td><b>🎨 Frontend Ecosystem</b></td>
   <td>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -126,12 +146,12 @@ Software Engineer and Full Stack Developer focused on architecting high-performa
   </td>
 </tr>
 <tr>
-  <td><b>🤖 AI & Automation</b></td>
+  <td><b>🤖 Chatbots & Automations</b></td>
   <td>
     <img src="https://img.shields.io/badge/-Custom_AI_Chatbots-00D9FF?style=flat&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Workflow_Automation-FF6C37?style=flat&logo=zapier&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Webhooks-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Smart_Workflow_Automation-FF6C37?style=flat&logo=zapier&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Webhooks_%26_APIs-181717?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-Botpress-000000?style=flat&logo=botpress&logoColor=white" />
   </td>
 </tr>
@@ -157,7 +177,7 @@ Software Engineer and Full Stack Developer focused on architecting high-performa
   </td>
 </tr>
 <tr>
-  <td><b>🛠️ Tools & Design</b></td>
+  <td><b>🛠️ Tools & Productivity</b></td>
   <td>
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -193,13 +213,13 @@ Software Engineer and Full Stack Developer focused on architecting high-performa
 | Competency | Level | Proficiency Bar | Focus Area |
 |:---|:---:|:---|:---|
 | **Software Engineering** | 90% | `▓▓▓▓▓▓▓▓▓░` Advanced | System Architecture, Clean Code & API Design |
-| **Full Stack (React / Next.js)** | 92% | `▓▓▓▓▓▓▓▓▓░` Expert | Next.js App Router, SSR/SSG, Responsive UI |
-| **JavaScript & TypeScript** | 90% | `▓▓▓▓▓▓▓▓▓░` Expert | Type Safety, Async Programming & Modern ES6+ |
-| **Backend & Node.js** | 86% | `▓▓▓▓▓▓▓▓░░` Advanced | REST APIs, Express, Auth & Middlewares |
+| **JavaScript & TypeScript** | 94% | `▓▓▓▓▓▓▓▓▓▓` Master | Modern ES6+, Async Programming & Type Safety |
+| **React / Next.js** | 92% | `▓▓▓▓▓▓▓▓▓░` Expert | Next.js App Router, SSR/SSG, Responsive UI |
+| **Node.js & Express Backend** | 88% | `▓▓▓▓▓▓▓▓░░` Advanced | REST APIs, Middlewares, Auth & Data Streams |
 | **Custom AI Chatbots** | 90% | `▓▓▓▓▓▓▓▓▓░` Expert | Conversational Flow, OpenAI Integration, Lead-Gen |
 | **Databases (SQL & NoSQL)** | 84% | `▓▓▓▓▓▓▓▓░░` Advanced | PostgreSQL, MongoDB, Schema Design & Indexing |
 | **TailwindCSS & UI Design** | 95% | `▓▓▓▓▓▓▓▓▓▓` Master | Micro-interactions, Glassmorphism & Mobile-First |
-| **Workflow Automation** | 85% | `▓▓▓▓▓▓▓▓░░` Advanced | Webhooks, CRM Sync & Process Automation |
+| **Smart Automations** | 86% | `▓▓▓▓▓▓▓▓░░` Advanced | Webhooks, Event Triggers & Business Workflows |
 
 </div>
 
@@ -213,7 +233,7 @@ Software Engineer and Full Stack Developer focused on architecting high-performa
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/💻 Software Engineer-Clean Architecture-7fdbff?style=for-the-badge" /><br/>
-Clean code, robust APIs,<br/>and zero technical debt.
+Next.js & Node.js architecture<br/>with zero technical debt.
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🤖 Tight AI Chatbots-24/7 Autopilot-a29bfe?style=for-the-badge" /><br/>
@@ -240,7 +260,7 @@ Co-founder @ Olive Growth,<br/>serving clients worldwide.
 
 |  | 🛎️ Solution | 📦 Engineering Deliverable | ⏱️ Turnaround |
 |:---:|:---|:---|:---:|
-| 💻 | DM **"ENGINEER"** | Custom Web Application · Full-Stack Next.js / React · Scalable Backend | 7–14 days |
+| 💻 | DM **"ENGINEER"** | Custom Web Application · Full-Stack Next.js / Node.js · Scalable Backend | 7–14 days |
 | 🤖 | DM **"CHATBOT"** | Full Tight AI Chatbot · 24/7 Lead Capture, Onboarding & Support Bot | 3–7 days |
 | 🌐 | DM **"WEBSITE"** | Premium Business Website · SEO-optimized · 100% Mobile Responsive | 5–10 days |
 | ⚙️ | DM **"AUTOMATE"** | Smart Business Automation · API & Webhook Workflows (Save 10+ hrs/wk) | 3–7 days |
@@ -248,7 +268,7 @@ Co-founder @ Olive Growth,<br/>serving clients worldwide.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -304,7 +324,7 @@ Co-founder @ Olive Growth,<br/>serving clients worldwide.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎯 Engineering Principles
 
@@ -336,7 +356,7 @@ Co-founder @ Olive Growth,<br/>serving clients worldwide.
 | ⚡ | **7–14 Day Delivery** — No clunky page builders, no code bloat, just pure engineered solutions |
 | 🌿 | **Co-founder @ Olive Growth Agency** — Leading technical delivery for international businesses |
 | 🎯 | **Mobile-First Standard** — Tested rigorously across devices for flawless responsiveness |
-| ☕ | Powered by modern web architectures, coffee, and shipping impactful software 🚀 |
+| ☕ | Powered by modern JavaScript / TypeScript, coffee, and shipping impactful software 🚀 |
 
 </div>
 
@@ -360,7 +380,7 @@ Co-founder @ Olive Growth,<br/>serving clients worldwide.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📫 Let's Connect & Build Together
 
