@@ -2,17 +2,13 @@
 
 <div align="center">
 
-<!-- TAGLINE:START -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%8C%90;AI+Automation+Specialist+%F0%9F%A4%96;Next.js+%7C+React+%7C+Node.js;Co-founder+%40+Olive+Growth+Agency+%F0%9F%8C%BF;Building+Websites+That+Actually+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
-<!-- TAGLINE:END -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%8C%90;AI+Automation+Specialist+%F0%9F%A4%96;Next.js+%7C+React+%7C+Node.js;Co-founder+%40+Olive+Growth+Agency+%F0%9F%8C%BF;Building+Websites+That+Actually+Work+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mehmoodkhan07&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/mehmoodkhan07?style=for-the-badge&color=00d9ff&labelColor=0D1117&label=FOLLOWERS)](https://github.com/mehmoodkhan07)
-&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/mehmoodkhan07?style=for-the-badge&color=FFD700&labelColor=0D1117&label=STARS)](https://github.com/mehmoodkhan07)
+<a href="https://github.com/mehmoodkhan07"><img src="https://img.shields.io/github/followers/mehmoodkhan07?style=for-the-badge&color=00d9ff&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/></a>
+<a href="https://github.com/mehmoodkhan07"><img src="https://img.shields.io/github/stars/mehmoodkhan07?style=for-the-badge&color=FFD700&labelColor=0D1117&label=STARS" alt="Stars"/></a>
 
 </div>
 
@@ -22,7 +18,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mehmoodkhan07&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmoodkhan07&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/></a>
 
 </div>
 
@@ -132,7 +128,7 @@
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmoodkhan07&theme=radical)](https://github.com/mehmoodkhan07)
+<a href="https://github.com/mehmoodkhan07"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmoodkhan07&theme=radical" alt="Profile Summary"/></a>
 
 </div>
 
@@ -142,7 +138,7 @@
 
 <div align="center">
 
-[![Mehmood's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehmoodkhan07&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmoodkhan07&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Activity Graph"/></a>
 
 </div>
 
@@ -175,7 +171,7 @@
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
 </div>
 
