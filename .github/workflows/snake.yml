@@ -17,7 +17,7 @@ jobs:
           github_user_name: mehmoodkhan07
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7fdbff&color_dots=#0D1117,#1a1a3e,#2d2b55,#4d4b9a,#7fdbff
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
