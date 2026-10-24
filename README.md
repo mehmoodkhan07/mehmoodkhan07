@@ -23,26 +23,11 @@
 
 ## 💻 Terminal Overview
 
-```bash
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  mehmood@workstation:~$ whoami                                                   ║
-║  > Mehmood Hassan — Software Engineer & Full Stack Web Architect                 ║
-║                                                                                  ║
-║  mehmood@workstation:~$ cat tech-dna.json                                        ║
-║  > {                                                                             ║
-║      "primary_role": "Software Engineer",                                        ║
-║      "core_ecosystem": "JavaScript / TypeScript (Next.js · React · Node.js)",    ║
-║      "backend_runtime": "Node.js · Express.js · RESTful APIs",                   ║
-║      "chatbot_mastery": "Custom Tight AI Chatbots (24/7 Lead-Gen & Support)",    ║
-║      "automation": "Webhooks · Event Pipelines · API Orchestration",             ║
-║      "co_founder": "Olive Growth Agency 🌿",                                     ║
-║      "ship_speed": "7–14 Day Turnaround · Zero Bloat · Production Ready"         ║
-║    }                                                                             ║
-║                                                                                  ║
-║  mehmood@workstation:~$ npm run deploy:chatbot --tight                           ║
-║  > [ACTIVE] Intelligent Conversational Chatbot & Automation Running! 🤖⚡        ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mehmoodkhan07/mehmoodkhan07/main/assets/terminal.svg" width="100%" alt="Mehmood Hassan Developer Terminal"/>
+
+</div>
 
 ---
 
